@@ -1,6 +1,6 @@
 import React from "react";
-
-
+import dashboard from "../pages/dashboard";
+import {Routes,Route} from "react-router-dom";
 
 function App() {
   return (
